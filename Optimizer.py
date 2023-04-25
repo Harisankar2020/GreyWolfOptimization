@@ -1,6 +1,6 @@
 from pathlib import Path
 import optimizers.GWO as gwo
-import benchmarks
+import BenchMark
 import csv
 import numpy
 import time
